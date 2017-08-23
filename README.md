@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
-This project allows you to run a [Nette Coding Standard](https://github.com/nette/coding-standard/) check&fix in environments without PHP &ge;7.1.
+This project allows you to run a [Nette Coding Standard](https://github.com/nette/coding-standard/) check&fix in environments with PHP &lt;7.1.
 
 ## Usage
 
