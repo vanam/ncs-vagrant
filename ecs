@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+declare -a params
+for p in "$@"; do params+=( "$p" ); done
+
+vendor/bin/ecs "${params[@]}"

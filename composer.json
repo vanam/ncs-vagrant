@@ -1,0 +1,11 @@
+{
+    "name": "vanam/ncs-vagrant",
+    "type": "project",
+    "require": {
+        "php": ">=7.1.0",
+        "ext-xml": "*",
+        "ext-zip": "*",
+
+        "nette/coding-standard": "^0.5"
+    }
+}
