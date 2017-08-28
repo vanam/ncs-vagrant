@@ -1,0 +1,9 @@
+parameters:
+	indentation: tab
+
+services:
+	Nette\CodingStandard\Finder\SourceProvider: ~
+
+checkers:
+	# File name should match class name if possible.
+	- PhpCsFixer\Fixer\Basic\Psr4Fixer
